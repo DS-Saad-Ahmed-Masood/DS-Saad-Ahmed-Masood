@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm SAAD AHMED MASOOD, a versatile data professional passionate about turning raw data into actionable insights. With a background in Masters in Computer Science, Core Data Science along Aviation Expertise and experienced Flight Operation Officer, I thrive on tackling complex problems and leveraging data-driven approaches to drive decision-making and innovation.
+I'm SAAD AHMED MASOOD, a versatile data professional passionate about turning raw data into actionable insights. With a background in Masters in Computer Science core Data Science along Aviation Expertise and experienced Flight Operation Officer & Route Analyst, I thrive on tackling complex problems and leveraging data-driven approaches to drive decision-making and innovation.
 
 ## About Me
 
